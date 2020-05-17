@@ -1,7 +1,7 @@
 # Write your code here
 
-num = 10 
+num = 10
 
 while(num > 0) do
-  puts(num-=1)
+  puts(num--)
 end
